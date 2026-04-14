@@ -1,2 +1,3 @@
-# hi
-This is the branch debug
+# 这是主分支master
++ 你可以切换回当前分支
++ 你可以使用`git merge`来融合其他开发分支
